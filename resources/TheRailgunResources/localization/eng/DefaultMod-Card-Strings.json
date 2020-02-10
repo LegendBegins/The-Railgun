@@ -1,0 +1,292 @@
+{
+  "TheRailgun:Aerial_Shot": {
+    "NAME": "Aerial Shot",
+    "DESCRIPTION": "Requires Magnetic Flight or Magnetic Movement. NL Deal !D! Damage.",
+    "UPGRADE_DESCRIPTION": "Requires Magnetic Flight or Magnetic Movement. NL Deal !D! Damage."
+  },
+  "TheRailgun:Battery_Pack": {
+    "NAME": "Battery Pack",
+    "DESCRIPTION": "Gain 1 Energy.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Energy. NL Draw 1 Card."
+  },
+  "TheRailgun:Biribiri": {
+    "NAME": "Biribiri!",
+    "DESCRIPTION": "Gain 2 Strength and 2 Dexterity.",
+    "UPGRADE_DESCRIPTION": "Gain 2 Strength and 2 Dexterity."
+  },
+  "TheRailgun:Charge": {
+    "NAME": "Charge",
+    "DESCRIPTION": "Channel a Lightning Orb.",
+    "UPGRADE_DESCRIPTION": "Channel a Lightning Orb. NL Gain 2 Strength."
+  },
+  "TheRailgun:Circuit_Breaker": {
+    "NAME": "Circuit Breaker",
+    "DESCRIPTION": "Switch your Strength and Dexterity.",
+    "UPGRADE_DESCRIPTION": "Switch your Strength and Dexterity."
+  },
+  "TheRailgun:Circuitous": {
+    "NAME": "Circuitous",
+    "DESCRIPTION": "Switch your Dexterity with an enemy.",
+    "UPGRADE_DESCRIPTION": "Switch your Dexterity with an enemy."
+  },
+  "TheRailgun:Coin_Flip": {
+    "NAME": "Coin Flip",
+    "DESCRIPTION": "Channel a Lightning Orb. NL Draw 1 Card.",
+    "UPGRADE_DESCRIPTION": "Channel a Lightning Orb. NL Draw 2 Cards."
+  },
+  "TheRailgun:Crack": {
+    "NAME": "Crack",
+    "DESCRIPTION": "Deal !D! Damage and Evoke an Orb.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage and Evoke 2 Orbs."
+  },
+  "TheRailgun:Crackle": {
+    "NAME": "Crackle",
+    "DESCRIPTION": "Deal !D! Damage for each Channeled Orb.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage for each Channeled Orb."
+  },
+  "TheRailgun:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block."
+  },
+  "TheRailgun:Discharge": {
+    "NAME": "Discharge",
+    "DESCRIPTION": "Evoke an Orb.",
+    "UPGRADE_DESCRIPTION": "Evoke an Orb. NL Gain 2 Dexterity."
+  },
+  "TheRailgun:Electric_Fence": {
+    "NAME": "Electric Fence",
+    "DESCRIPTION": "Gain 7 Block and deal 3 damage to each enemy that attacks you this turn.",
+    "UPGRADE_DESCRIPTION": "Gain 7 Block and deal 3 damage to each enemy that attacks you this turn."
+  },
+  "TheRailgun:Electrical_Fire": {
+    "NAME": "Electrical Fire",
+    "DESCRIPTION": "Deal !D! Damage to each enemy.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage to each enemy."
+  },
+  "TheRailgun:Electrical_Storm": {
+    "NAME": "Electrical Storm",
+    "DESCRIPTION": "Deal X Damage twice.",
+    "UPGRADE_DESCRIPTION": "Deal X Damage twice to each enemy."
+  },
+  "TheRailgun:Gekota_Keychain": {
+    "NAME": "Gekota Keychain",
+    "DESCRIPTION": "Remove 1 Curse from your deck until the end of the battle.",
+    "UPGRADE_DESCRIPTION": "Remove 2 Curse Cards from your deck until the end of the battle."
+  },
+  "TheRailgun:Gekota_Phone": {
+    "NAME": "Gekota Phone",
+    "DESCRIPTION": "Exhaust 1 Card and Draw 1 Card.",
+    "UPGRADE_DESCRIPTION": "Exhaust 2 Cards and Draw 1 Card."
+  },
+  "TheRailgun:Gekotamania": {
+    "NAME": "Gekotamania",
+    "DESCRIPTION": "Draw 1 Card for each Relic you have.",
+    "UPGRADE_DESCRIPTION": "Draw 2 Cards for each Relic you have."
+  },
+  "TheRailgun:Heroinism": {
+    "NAME": "Heroinism",
+    "DESCRIPTION": "Gain 1 Energy at the start of each turn.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Energy at the start of each turn."
+  },
+  "TheRailgun:Hypercharge": {
+    "NAME": "Hypercharge",
+    "DESCRIPTION": "Draw 3 Cards and Discard 3 Cards.",
+    "UPGRADE_DESCRIPTION": "Draw 3 Cards and Discard 3 Cards."
+  },
+  "TheRailgun:Iron_Dust_Field": {
+    "NAME": "Iron-Dust Field",
+    "DESCRIPTION": "Gain !B! Plated Armor.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Plated Armor. NL Gain 2 Thorns."
+  },
+  "TheRailgun:Iron_Dust_Shield": {
+    "NAME": "Iron-Dust Shield",
+    "DESCRIPTION": "Gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Gain 2 Thorns."
+  },
+  "TheRailgun:Iron_Dust_Sword": {
+    "NAME": "Iron-Dust Sword",
+    "DESCRIPTION": "Deal !D! Damage 5 times.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage 5 times."
+  },
+  "TheRailgun:Iron_Dust_Vial": {
+    "NAME": "Iron-Dust Vial",
+    "DESCRIPTION": "Draw 2 Cards.",
+    "UPGRADE_DESCRIPTION": "Draw 4 Cards."
+  },
+  "TheRailgun:Judgement_Officer": {
+    "NAME": "Judgement Officer",
+    "DESCRIPTION": "Gain 6 Needles.",
+    "UPGRADE_DESCRIPTION": "Gain 6 Upgraded Needles."
+  },
+  "TheRailgun:Level_6": {
+    "NAME": "Level 6",
+    "DESCRIPTION": "Gain 6 Energy. NL Gain 6 Strength. NL Gain 6 Dexterity.",
+    "UPGRADE_DESCRIPTION": "Gain 6 Energy. NL Gain 6 Strength. NL Gain 6 Dexterity. NL Recover 20% HP."
+  },
+  "TheRailgun:Lightning_Speed": {
+    "NAME": "Lightning Speed",
+    "DESCRIPTION": "Increase Damage dealt by 25%. NL Not stackable.",
+    "UPGRADE_DESCRIPTION": "Increase Damage dealt by 25%. NL Not stackable.1"
+  },
+  "TheRailgun:Lightningbolt": {
+    "NAME": "Lightningbolt",
+    "DESCRIPTION": "Deal !D! Damage. NL Channel a Lightning Orb.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage. NL Channel 2 Lightning Orbs."
+  },
+  "TheRailgun:Magnetic_Flight": {
+    "NAME": "Magnetic Flight",
+    "DESCRIPTION": "Decrease damage taken from enemy attacks by 50%. Not stackable.",
+    "UPGRADE_DESCRIPTION": "Decrease damage taken from enemy attacks by 50%. NL Not stackable."
+  },
+  "TheRailgun:Magnetic_Movement": {
+    "NAME": "Magnetic Movement",
+    "DESCRIPTION": "Decrease Damage received by 25%. NL Not stackable.",
+    "UPGRADE_DESCRIPTION": "Decrease Damage received by 25%. NL Not stackable."
+  },
+  "TheRailgun:Mental_Out": {
+    "NAME": "Mental Out",
+    "DESCRIPTION": "Apply STUN to an enemy.",
+    "UPGRADE_DESCRIPTION": "Apply STUN to an enemy."
+  },
+  "TheRailgun:Needle": {
+    "NAME": "Needle",
+    "DESCRIPTION": "Deal !D! Damage.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage."
+  },
+  "TheRailgun:Negative_Field": {
+    "NAME": "Negative Field",
+    "DESCRIPTION": "Gain 1 Strength.",
+    "UPGRADE_DESCRIPTION": "Gain 2 Strength."
+  },
+  "TheRailgun:Oneesama": {
+    "NAME": "Oneesama!!",
+    "DESCRIPTION": "Gain 1 Needle each turn.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Needle each turn."
+  },
+  "TheRailgun:Overload": {
+    "NAME": "Overload",
+    "DESCRIPTION": "Lower the cost of all Cards by 1. NL Take 5 Damage at the end of each turn.",
+    "UPGRADE_DESCRIPTION": "Lower the cost of all Cards by 1. NL Take 5 Damage at the end of each turn."
+  },
+  "TheRailgun:Positive_Field": {
+    "NAME": "Positive Field",
+    "DESCRIPTION": "Gain 1 Dexterity.",
+    "UPGRADE_DESCRIPTION":"Gain 2 Dexterity."
+  },
+  "TheRailgun:Pull": {
+    "NAME": "Pull",
+    "DESCRIPTION": "Draw 1 Card.",
+    "UPGRADE_DESCRIPTION": "Draw 1 Card."
+  },
+  "TheRailgun:Push": {
+    "NAME": "Push",
+    "DESCRIPTION": "Discard 1 Card.",
+    "UPGRADE_DESCRIPTION": "Discard 1 Card."
+  },
+  "TheRailgun:Railgun": {
+    "NAME": "Railgun",
+    "DESCRIPTION": "Remove an enemy's Block and deal !D! Damage. NL Apply 5 Vulnerable and 5 Weak.",
+    "UPGRADE_DESCRIPTION": "Remove an enemy's Block and deal !D! Damage. NL Apply 5 Vulnerable and 5 Weak."
+  },
+  "TheRailgun:Recharge": {
+    "NAME": "Recharge",
+    "DESCRIPTION": "Discard a card and gain Energy equal to its Cost. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Discard a card and gain Energy equal to its Cost. NL Exhaust"
+  },
+  "TheRailgun:Rewiring": {
+    "NAME": "Rewiring",
+    "DESCRIPTION": "Switch your Strength with an enemy.",
+    "UPGRADE_DESCRIPTION": "Switch your Strength with an enemy."
+  },
+  "TheRailgun:Scatter_Railgun": {
+    "NAME": "Scatter Railgun",
+    "DESCRIPTION": "Deal !D! to each enemy and remove Block.",
+    "UPGRADE_DESCRIPTION": "Deal !D! to each enemy and remove Block. NL Channel a Lightning Orb."
+  },
+  "TheRailgun:Sister_Network": {
+    "NAME": "Sister Network",
+    "DESCRIPTION": "Draw 1 Card for each enemy.",
+    "UPGRADE_DESCRIPTION":"Draw 1 Card for each enemy."
+  },
+  "TheRailgun:Sister_Noise": {
+    "NAME": "Sister Noise",
+    "DESCRIPTION": "Gain 2 Energy.",
+    "UPGRADE_DESCRIPTION": "Gain 2 Energy."
+  },
+  "TheRailgun:Spark": {
+    "NAME": "Spark",
+    "DESCRIPTION": "Deal !D! Damage plus 1 for each Channeled Orb.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damaged plus 2 for each Channeled Orb."
+  },
+  "TheRailgun:Static": {
+    "NAME": "Static",
+    "DESCRIPTION": "Deal !D! Damage to each enemy.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage to each enemy."
+  },
+  "TheRailgun:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! Damage.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage."
+  },
+  "TheRailgun:Stun_Shock": {
+    "NAME": "Stun-Shock",
+    "DESCRIPTION": "Deal !D! Damage and remove Block. NL Apply 1 Vulnerable. NL Apply 1 Weak.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage and remove Block. NL Apply 1 Vulnerable. NL Apply 1 Weak."
+  },
+  "TheRailgun:Supercharge": {
+    "NAME": "Supercharge",
+    "DESCRIPTION": "Upgrade all Cards for the rest of the battle.",
+    "UPGRADE_DESCRIPTION": "Upgrade all Cards for the rest of the battle."
+  },
+  "TheRailgun:Taser": {
+    "NAME": "Taser",
+    "DESCRIPTION": "Remove all buffs on non-Boss enemy.",
+    "UPGRADE_DESCRIPTION": "Remove all buffs on non-Boss enemy."
+  },
+  "TheRailgun:Teleporter": {
+    "NAME": "Teleporter",
+    "DESCRIPTION": "Gain 2 Needles.",
+    "UPGRADE_DESCRIPTION": "Gain 2 Upgraded Needles."
+  },
+  "TheRailgun:Thunder": {
+    "NAME": "Thunder",
+    "DESCRIPTION": "Channel X Lightning Orbs.",
+    "UPGRADE_DESCRIPTION": "Channel X+1 Lightning Orbs."
+  },
+  "TheRailgun:Thunderbolt": {
+    "NAME": "Thunderbolt",
+    "DESCRIPTION": "Deal !D! Damage. NL Channel a Lightning Orb.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage. NL Channel a Lightning Orb."
+  },
+  "TheRailgun:Thunderjolt": {
+    "NAME": "Thunderjolt",
+    "DESCRIPTION": "Deal X Damage for each Channeled Orb.",
+    "UPGRADE_DESCRIPTION": "Deal X Damage for each Channeled Orb. NL Channel a Lightning Orb."
+  },
+  "TheRailgun:Thundershock": {
+    "NAME": "Thundershock",
+    "DESCRIPTION": "Deal !D! Damage",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage. NL Channel a Lightning Orb."
+  },
+  "TheRailgun:Thundervolt": {
+    "NAME": "Thundervolt",
+    "DESCRIPTION": "Deal !D! Damage for each Channeled Orb.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage for each Channeled Orb."
+  },
+  "TheRailgun:Token_Collection": {
+    "NAME": "Token Collection",
+    "DESCRIPTION": "Choose 1 Card in your Discard Pile and add it to your hand.",
+    "UPGRADE_DESCRIPTION": "Choose 2 Cards in your Discard Pile and add them to your hand."
+  },
+  "TheRailgun:Zap": {
+    "NAME": "Zap",
+    "DESCRIPTION": "Deal !D! Damage. NL Channel a Lightning Orb.",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage. NL Channel a Lightning Orb."
+  },
+  "TheRailgun:Zip": {
+    "NAME": "Zip",
+    "DESCRIPTION": "Channel a Lightning Orb.",
+    "UPGRADE_DESCRIPTION": "Channel 2 Lightning Orbs."
+  }
+}

@@ -1,0 +1,60 @@
+{
+        "TheRailgun:ElectricFencePower": {
+                "NAME": "Electric Fence",
+                "DESCRIPTIONS": [
+                        "Deal 3 Damage to each enemy that attacks you."
+                ]
+
+        },
+        "TheRailgun:HeroinismPower": {
+                "NAME": "Heroinism",
+                "DESCRIPTIONS": [
+                        "Gain 1 Energy at the start of each turn."
+                ]
+
+        },
+        "TheRailgun:LightningSpeedPower": {
+                "NAME": "Lightning Speed",
+                "DESCRIPTIONS": [
+                        "Increase Damage dealt by 25%."
+                ]
+
+        },
+        "TheRailgun:MagneticFlightPower": {
+                "NAME": "Magnetic Flight",
+                "DESCRIPTIONS": [
+                        "Decrease Damage taken by 50%."
+                ]
+
+        },
+        "TheRailgun:MagneticMovementPower": {
+                "NAME": "Magnetic Movement",
+                "DESCRIPTIONS": [
+                        "Decrease Damage taken by 25%."
+                ]
+
+        },
+        "TheRailgun:OneesamaPower": {
+                "NAME": "Onee-sama!!",
+                "DESCRIPTIONS": [
+                        "Gain 1 Needle at the start of each turn."
+                ]
+
+        },
+        "TheRailgun:OverloadPower": {
+                "NAME": "Overload",
+                "DESCRIPTIONS": [
+                        "Reduce the Cost of all cards by 1 but take 5 Damage at the end of each turn."
+                ]
+
+        },
+        "TheRailgun:MentalPower": {
+                "NAME": "Mental Out",
+                "DESCRIPTIONS": [
+                        "This target is stunned."
+                ]
+
+        }
+
+
+}
