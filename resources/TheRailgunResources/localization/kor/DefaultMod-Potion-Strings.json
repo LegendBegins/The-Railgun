@@ -1,0 +1,6 @@
+{
+"TheRailgun:PlaceholderPotion": {
+        "NAME": "자리 표시 물약",
+        "DESCRIPTIONS": ["힘을 얻습니다", " 턴이 끝날 때, ", " 힘을 잃습니다."]
+}
+}

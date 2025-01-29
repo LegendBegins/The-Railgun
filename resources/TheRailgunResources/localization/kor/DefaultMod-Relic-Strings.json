@@ -1,0 +1,50 @@
+{
+  "TheRailgun:PlaceholderRelic": {
+    "NAME": "자리 표시 에너지 유물",
+    "FLAVOR": "뱀은 친구입니다.",
+    "DESCRIPTIONS": [
+      "얻는다. #b1 [E] ."
+    ]
+  },
+  "TheRailgun:PlaceholderRelic2": {
+    "NAME": "자리 표시 유물 2",
+    "FLAVOR": "당신은 더 강해진 느낌이 듭니다.",
+    "DESCRIPTIONS": [
+      "각 전투 시작 시, #b1 #y힘을 얻습니다."
+    ]
+  },
+  "TheRailgun:DefaultClickableRelic": {
+    "NAME": "오른쪽 클릭 유물",
+    "FLAVOR": "더 많이 오른쪽 클릭할수록, 당신이 소환한 오브의 수는 늘어납니다.",
+    "DESCRIPTIONS": [
+      "[#2aecd7]한 [#2aecd7]턴에 [#2aecd7]한번만 [#2aecd7]사용가능.[] NL #y가장 오른쪽의 오브를 소환합니다.",
+      "너는 내 것이다!"
+    ]
+  },
+  "TheRailgun:BottledPlaceholderRelic": {
+    "NAME": "병에 든 자리 표시",
+    "FLAVOR": "이게 뭐지?",
+    "DESCRIPTIONS": [
+      "카드를 선택하세요. 카드를 플레이할 때마다 선택한 카드를 뽑습니다.",
+      "카드를 플레이할 때마다, 을 뽑습니다 ",
+      ".",
+      "병에 담을 카드를 선택하세요 "
+    ]
+  },
+  "TheRailgun:TokenRelic": {
+    "NAME": "수집가의 토큰",
+    "FLAVOR": "오락실에서 얻은 토큰입니다.",
+    "DESCRIPTIONS": [
+      "50/50 확률로 1의 피해를 받거나 다음 전투에서 적의 HP를 1로 만듭니다. NL 전투 외에서만 사용 가능. 3회 사용 가능. 오른쪽 클릭으로 사용. "
+    ]
+
+  },
+  "TheRailgun:CoinRelic": {
+    "NAME": "수집가의 동전",
+    "FLAVOR": "오락실에서 얻은 동전입니다.",
+    "DESCRIPTIONS": [
+      "턴이 끝날 때, 남은 에너지에 따라 최대 세 개의 번개 오브를 소환합니다. "
+    ]
+
+  }
+}

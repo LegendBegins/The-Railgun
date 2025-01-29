@@ -1,0 +1,67 @@
+{
+        "TheRailgun:ElectricFencePower": {
+                "NAME": "전기 울타리",
+                "DESCRIPTIONS": [
+                        "당신을 공격하는 모든 적에게 3의 피해를 줍니다."
+                ]
+
+        },
+        "TheRailgun:HeroinismPower": {
+                "NAME": "영웅주의",
+                "DESCRIPTIONS": [
+                        "매 턴 시작 시 1 에너지를 얻습니다."
+                ]
+
+        },
+        "TheRailgun:LightningSpeedPower": {
+                "NAME": "번개 속도",
+                "DESCRIPTIONS": [
+                        "입히는 피해가 25% 증가합니다."
+                ]
+
+        },
+        "TheRailgun:MagneticFlightPower": {
+                "NAME": "자기 비행",
+                "DESCRIPTIONS": [
+                        "받는 피해가 50% 감소합니다."
+                ]
+
+        },
+        "TheRailgun:MagneticMovementPower": {
+                "NAME": "자기 이동",
+                "DESCRIPTIONS": [
+                        "받는 피해가 25% 감소합니다."
+                ]
+
+        },
+        "TheRailgun:OneesamaPower": {
+                "NAME": "언니!!",
+                "DESCRIPTIONS": [
+                        "매 턴 시작 시 1개의 바늘을 얻습니다."
+                ]
+
+        },
+        "TheRailgun:OverloadPower": {
+                "NAME": "과부하",
+                "DESCRIPTIONS": [
+                        "모든 카드의 비용이 1 감소하지만 매 턴 끝에 5의 피해를 입습니다."
+                ]
+
+        },
+        "TheRailgun:MentalPower": {
+                "NAME": "멘탈 아웃",
+                "DESCRIPTIONS": [
+                        "이 대상은 기절 상태가 됩니다."
+                ]
+
+        },
+        "TheRailgun:UpgradeOneesamaPower": {
+                "NAME": "언니(U)!!",
+                "DESCRIPTIONS": [
+                        "매 턴 시작 시 1개의 강화된 바늘을 얻습니다."
+                ]
+
+        }
+
+
+}

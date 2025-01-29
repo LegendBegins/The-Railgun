@@ -1,0 +1,292 @@
+{
+  "TheRailgun:Aerial_Shot": {
+    "NAME": "공중 사격",
+    "DESCRIPTION": "자기 비행 또는 자기 이동 필요. NL !D! 피해를 줍니다.",
+    "UPGRADE_DESCRIPTION": "자기 비행 또는 자기 이동 필요. NL !D! 피해를 줍니다."
+  },
+  "TheRailgun:Battery_Pack": {
+    "NAME": "배터리 팩",
+    "DESCRIPTION": "1 에너지를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "1 에너지를 얻습니다. NL 1 장의 카드를 뽑습니다."
+  },
+  "TheRailgun:Biribiri": {
+    "NAME": "비리비리!",
+    "DESCRIPTION": "2 힘과 2 민첩을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "3 힘과 3 민첩을 얻습니다."
+  },
+  "TheRailgun:Charge": {
+    "NAME": "채널링",
+    "DESCRIPTION": "번개 오브를 채널링합니다.",
+    "UPGRADE_DESCRIPTION": "번개 오브를 채널링합니다. NL 2 힘을 얻습니다."
+  },
+  "TheRailgun:Circuit_Breaker": {
+    "NAME": "서킷 브레이커",
+    "DESCRIPTION": "자신의 힘과 자신의 민첩을 교환합니다.",
+    "UPGRADE_DESCRIPTION": "자신의 힘과 자신의 민첩을 교환합니다. NL 1 힘과 1 민첩을 얻습니다."
+  },
+  "TheRailgun:Circuitous": {
+    "NAME": "우회",
+    "DESCRIPTION": "적과 자신의 민첩을 교환합니다.",
+    "UPGRADE_DESCRIPTION": "적과 자신의 민첩을 교환합니다."
+  },
+  "TheRailgun:Coin_Flip": {
+    "NAME": "동전 던지기",
+    "DESCRIPTION": "번개 오브를 채널링합니다. NL 1 장의 카드를 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "번개 오브를 채널링합니다. NL 2 장의 카드를 뽑습니다."
+  },
+  "TheRailgun:Crack": {
+    "NAME": "균열",
+    "DESCRIPTION": "!D! 피해를 주고 오브를 해방합니다.",
+    "UPGRADE_DESCRIPTION": "!D! 피해를 주고 오브를 2번 해방합니다."
+  },
+  "TheRailgun:Crackle": {
+    "NAME": "틱틱거림",
+    "DESCRIPTION": "채널링된 오브당 !D! 피해를 줍니다.",
+    "UPGRADE_DESCRIPTION": "채널링된 오브당 !D! 피해를 줍니다."
+  },
+  "TheRailgun:Defend": {
+    "NAME": "막기",
+    "DESCRIPTION": "!B! 방어를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "!B! 방어를 얻습니다."
+  },
+  "TheRailgun:Discharge": {
+    "NAME": "방전",
+    "DESCRIPTION": "오브를 해방합니다.",
+    "UPGRADE_DESCRIPTION": "오브를 해방합니다. NL 민첩을 2 얻습니다."
+  },
+  "TheRailgun:Electric_Fence": {
+    "NAME": "전기 울타리",
+    "DESCRIPTION": "7 방어를 얻고, 이 턴 동안 당신을 공격하는 모든 적에게 3 피해를 줍니다.",
+    "UPGRADE_DESCRIPTION": "7 방어를 얻고, 이 턴 동안 당신을 공격하는 모든 적에게 3 피해를 줍니다."
+  },
+  "TheRailgun:Electrical_Fire": {
+    "NAME": "전기 화염",
+    "DESCRIPTION": "모든 적에게 !D! 피해를 줍니다.",
+    "UPGRADE_DESCRIPTION": "모든 적에게 !D! 피해를 줍니다."
+  },
+  "TheRailgun:Electrical_Storm": {
+    "NAME": "전기 폭풍",
+    "DESCRIPTION": "X 피해를 두 번 줍니다.",
+    "UPGRADE_DESCRIPTION": "X 피해를 모든 적에게 두 번 줍니다."
+  },
+  "TheRailgun:Gekota_Keychain": {
+    "NAME": "Gekota 열쇠고리",
+    "DESCRIPTION": "전투가 끝날 때까지 덱에서 저주 1장을 제거합니다.",
+    "UPGRADE_DESCRIPTION": "전투가 끝날 때까지 덱에서 저주카드 2장을 제거합니다."
+  },
+  "TheRailgun:Gekota_Phone": {
+    "NAME": "Gekota 폰",
+    "DESCRIPTION": "카드 2장을 소멸시키고, 1장을 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "카드 2장을 소멸시키고, 1장을 뽑습니다."
+  },
+  "TheRailgun:Gekotamania": {
+    "NAME": "Gekota마니아",
+    "DESCRIPTION": "손이 가득 찰 때까지 카드를 뽑습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "손이 가득 찰 때까지 카드를 뽑습니다. NL 전기오브 2개채널링 NL 소멸."
+  },
+  "TheRailgun:Heroinism": {
+    "NAME": "영웅주의",
+    "DESCRIPTION": "턴 시작 시 1 에너지를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "턴 시작 시 1 에너지를 얻습니다."
+  },
+  "TheRailgun:Hypercharge": {
+    "NAME": "하이퍼차지",
+    "DESCRIPTION": "카드 3장을 뽑고 3장을 버립니다.",
+    "UPGRADE_DESCRIPTION": "카드 3장을 뽑고 2장을 버립니다."
+  },
+  "TheRailgun:Iron_Dust_Field": {
+    "NAME": "철먼지 영역",
+    "DESCRIPTION": "!B! 판금갑옷을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "!B! 판금갑옷을 얻습니다. NL 2 가시를 얻습니다."
+  },
+  "TheRailgun:Iron_Dust_Shield": {
+    "NAME": "철먼지 방패",
+    "DESCRIPTION": "!B! 방어를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "!B! 방어를 얻습니다. NL 2 가시를 얻습니다."
+  },
+  "TheRailgun:Iron_Dust_Sword": {
+    "NAME": "철먼지 검",
+    "DESCRIPTION": "!D! 피해를 5회 줍니다.",
+    "UPGRADE_DESCRIPTION": "!D! 피해를 5회 줍니다."
+  },
+  "TheRailgun:Iron_Dust_Vial": {
+    "NAME": "철먼지 바이알",
+    "DESCRIPTION": "카드 2장을 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "카드 4장을 뽑습니다."
+  },
+  "TheRailgun:Judgement_Officer": {
+    "NAME": "심판 관료",
+    "DESCRIPTION": "6개의 바늘을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "6개의 강화된 바늘을 얻습니다."
+  },
+  "TheRailgun:Level_6": {
+    "NAME": "레벨 6",
+    "DESCRIPTION": "6 에너지를 얻습니다. NL 8 힘을 얻습니다. NL 8 민첩을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "6 에너지를 얻습니다. NL 8 힘을 얻습니다. NL 8 민첩을 얻습니다. NL 20% 체력을 회복합니다."
+  },
+  "TheRailgun:Lightning_Speed": {
+    "NAME": "번개 속도",
+    "DESCRIPTION": "주는 피해가 25% 증가합니다.",
+    "UPGRADE_DESCRIPTION": "주는 피해가 25% 증가합니다. NL 번개 오브 1개 채널링"
+  },
+  "TheRailgun:Lightningbolt": {
+    "NAME": "번개",
+    "DESCRIPTION": "!D! 피해를 줍니다. NL 번개 오브 1개 채널링.",
+    "UPGRADE_DESCRIPTION": "!D! 피해를 줍니다. NL 번개 오브 2개 채널링."
+  },
+  "TheRailgun:Magnetic_Flight": {
+    "NAME": "자기 비행",
+    "DESCRIPTION": "적의 공격으로 받는 피해를 50% 감소시킵니다.",
+    "UPGRADE_DESCRIPTION": "적의 공격으로 받는 피해를 50% 감소시킵니다."
+  },
+  "TheRailgun:Magnetic_Movement": {
+    "NAME": "자기 이동",
+    "DESCRIPTION": "적의 공격으로 받는 피해를 25% 감소시킵니다.",
+    "UPGRADE_DESCRIPTION": "적의 공격으로 받는 피해를 25% 감소시킵니다."
+  },
+  "TheRailgun:Mental_Out": {
+    "NAME": "정신 제어",
+    "DESCRIPTION": "적에게 기절을 적용합니다.",
+    "UPGRADE_DESCRIPTION": "적에게 기절을 적용합니다."
+  },
+  "TheRailgun:Needle": {
+    "NAME": "바늘",
+    "DESCRIPTION": "!D! 피해를 줍니다.",
+    "UPGRADE_DESCRIPTION": "!D! 피해를 줍니다."
+  },
+  "TheRailgun:Negative_Field": {
+    "NAME": "음극장",
+    "DESCRIPTION": "1 힘을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "2 힘을 얻습니다."
+  },
+  "TheRailgun:Oneesama": {
+    "NAME": "언니님!!",
+    "DESCRIPTION": "매 턴 1개의 바늘을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "매 턴 1개의 강화된 바늘을 얻습니다."
+  },
+  "TheRailgun:Overload": {
+    "NAME": "과부하",
+    "DESCRIPTION": "모든 카드의 비용을 1 줄입니다. NL 매 턴이 끝날 때 2 피해를 받습니다.",
+    "UPGRADE_DESCRIPTION": "모든 카드의 비용을 1 줄입니다. NL 매 턴이 끝날 때 2 피해를 받습니다."
+  },
+  "TheRailgun:Positive_Field": {
+    "NAME": "양극장",
+    "DESCRIPTION": "1 민첩을 얻습니다.",
+    "UPGRADE_DESCRIPTION":"2 민첩을 얻습니다."
+  },
+  "TheRailgun:Pull": {
+    "NAME": "당기기",
+    "DESCRIPTION": "1 장의 카드를 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "1 장의 카드를 뽑습니다. NL 전기 오브 1개 채널링."
+  },
+  "TheRailgun:Push": {
+    "NAME": "밀기",
+    "DESCRIPTION": "1 장의 카드를 버립니다.",
+    "UPGRADE_DESCRIPTION": "1 장의 카드를 버립니다. NL 전기 오브 1개 채널링."
+  },
+  "TheRailgun:Railgun": {
+    "NAME": "레일건",
+    "DESCRIPTION": "적의 방어를 제거하고 !D! 피해를 줍니다. NL 5 약화와 5 취약을 적용합니다.",
+    "UPGRADE_DESCRIPTION": "적의 방어를 제거하고 !D! 피해를 줍니다. NL 5 약화와 5 취약을 적용합니다."
+  },
+  "TheRailgun:Recharge": {
+    "NAME": "재충전",
+    "DESCRIPTION": "카드를 버리고 그 비용만큼의 에너지를 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "카드를 버리고 그 비용만큼의 에너지를 얻습니다. NL 소멸."
+  },
+  "TheRailgun:Rewiring": {
+    "NAME": "재배선",
+    "DESCRIPTION": "적과 힘을 교환합니다.",
+    "UPGRADE_DESCRIPTION": "적과 힘을 교환합니다."
+  },
+  "TheRailgun:Scatter_Railgun": {
+    "NAME": "분산 레일건",
+    "DESCRIPTION": "모든 적에게 !D! 피해를 주고 방어를 제거합니다.",
+    "UPGRADE_DESCRIPTION": "모든 적에게 !D! 피해를 주고 방어를 제거합니다. NL 번개 오브 1개 채널링."
+  },
+  "TheRailgun:Sister_Network": {
+    "NAME": "자매 네트워크",
+    "DESCRIPTION": "적 한 마리당 1 장의 카드를 뽑습니다.",
+    "UPGRADE_DESCRIPTION":"적 한 마리당 1 장의 카드를 뽑습니다. NL 번개 오브 1개 채널링."
+  },
+  "TheRailgun:Sister_Noise": {
+    "NAME": "자매 노이즈",
+    "DESCRIPTION": "2 에너지를 얻습니다.",
+    "UPGRADE_DESCRIPTION": "2 에너지를 얻습니다."
+  },
+  "TheRailgun:Spark": {
+    "NAME": "불꽃",
+    "DESCRIPTION": "!D! 피해를 주고, 채널링된 오브당 1 추가 피해를 줍니다.",
+    "UPGRADE_DESCRIPTION": "!D! 피해를 주고, 채널링된 오브당 3 추가 피해를 줍니다."
+  },
+  "TheRailgun:Static": {
+    "NAME": "정전기",
+    "DESCRIPTION": "모든 적에게 !D! 피해를 줍니다.",
+    "UPGRADE_DESCRIPTION": "모든 적에게 !D! 피해를 줍니다."
+  },
+  "TheRailgun:Strike": {
+    "NAME": "공격",
+    "DESCRIPTION": "!D! 피해를 줍니다.",
+    "UPGRADE_DESCRIPTION": "!D! 피해를 줍니다."
+  },
+  "TheRailgun:Stun_Shock": {
+    "NAME": "기절 충격",
+    "DESCRIPTION": " !D! 피해를 주고 방어를 제거합니다. NL 1 약화와 1 취약을 적용합니다.",
+    "UPGRADE_DESCRIPTION": " !D! 피해를 주고 방어를 제거합니다. NL 1 약화와 1 취약을 적용합니다."
+  },
+  "TheRailgun:Supercharge": {
+    "NAME": "슈퍼차지",
+    "DESCRIPTION": "이번 전투 동안 모든 카드를 업그레이드합니다.",
+    "UPGRADE_DESCRIPTION": "이번 전투 동안 모든 카드를 업그레이드합니다."
+  },
+  "TheRailgun:Taser": {
+    "NAME": "테이저",
+    "DESCRIPTION": "보스가 아닌 적의 모든 버프를 제거합니다.",
+    "UPGRADE_DESCRIPTION": "보스가 아닌 적의 모든 버프를 제거합니다."
+  },
+  "TheRailgun:Teleporter": {
+    "NAME": "텔레포터",
+    "DESCRIPTION": "2개의 바늘을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "2개의 강화된 바늘을 얻습니다."
+  },
+  "TheRailgun:Thunder": {
+    "NAME": "천둥",
+    "DESCRIPTION": "X개의 번개 오브를 채널링합니다.",
+    "UPGRADE_DESCRIPTION": "X개의 번개 오브를 채널링합니다."
+  },
+  "TheRailgun:Thunderbolt": {
+    "NAME": "천둥번개",
+    "DESCRIPTION": "!D! 피해를 줍니다. NL 번개 오브 1개 채널링.",
+    "UPGRADE_DESCRIPTION": "!D! 피해를 줍니다. NL 번개 오브 1개 채널링."
+  },
+  "TheRailgun:Thunderjolt": {
+    "NAME": "천둥충격",
+    "DESCRIPTION": "채널링된 오브당 X 피해를 줍니다.",
+    "UPGRADE_DESCRIPTION": "채널링된 오브당 X 피해를 줍니다. NL 번개 오브 1개 채널링."
+  },
+  "TheRailgun:Thundershock": {
+    "NAME": "천둥충격!",
+    "DESCRIPTION": "!D! 피해를 줍니다.",
+    "UPGRADE_DESCRIPTION": "!D! 피해를 줍니다. NL 번개 오브 1개 채널링."
+  },
+  "TheRailgun:Thundervolt": {
+    "NAME": "천둥볼트",
+    "DESCRIPTION": "채널링된 오브당 !D! 피해를 줍니다.",
+    "UPGRADE_DESCRIPTION": "채널링된 오브당 !D! 피해를 줍니다."
+  },
+  "TheRailgun:Token_Collection": {
+    "NAME": "토큰 콜렉션",
+    "DESCRIPTION": "버린 더미에서 1 장의 카드를 선택하여 손에 추가합니다.",
+    "UPGRADE_DESCRIPTION": "버린 더미에서 2 장의 카드를 선택하여 손에 추가합니다."
+  },
+  "TheRailgun:Zap": {
+    "NAME": "전격",
+    "DESCRIPTION": "!D! 피해를 줍니다. NL 번개 오브 1개 채널링.",
+    "UPGRADE_DESCRIPTION": "!D! 피해를 줍니다. NL 번개 오브 1개 채널링."
+  },
+  "TheRailgun:Zip": {
+    "NAME": "질주",
+    "DESCRIPTION": "번개 오브 1개를 채널링합니다.",
+    "UPGRADE_DESCRIPTION": "번개 오브 2개를 채널링합니다."
+  }
+}

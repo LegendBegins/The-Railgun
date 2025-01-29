@@ -1,0 +1,11 @@
+{
+  "TheRailgun:DefaultOrb": {
+    "NAME": "기본오브",
+    "DESCRIPTION": [
+      "#yPassive: 당신의 차례가 시작될 때, 뽑습니다. #b",
+      " 카드를.",
+      " 카드를.",
+      "NL #y해방: 데미지#b 을 줍니다. 모든적에게."
+    ]
+  }
+}
